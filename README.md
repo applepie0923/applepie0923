@@ -2,6 +2,5 @@
   <!--Body-->
   
   ## About Me
-  #### ✏️ Undergraduate student majoring in Information and Telecommunication Engineering, Incheon National University
-  <br/>
+  #### ✏️ Incheon National University, Information and Telecommunication Engineering(2025.03.~)
   <br/>
